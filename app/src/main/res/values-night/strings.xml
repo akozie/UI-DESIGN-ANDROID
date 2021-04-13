@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CreateUIDesign</string>
+    <string name="good_morning">Good morning!</string>
+    <string name="Search">Search</string>
+    <string name="jane">Jane</string>
+    <string name="picture_of_a_lady">Picture of a lady</string>
+    <string name="follow_jane">FOLLOW JANE</string>
+    <string name="san_francisco_ca">SAN FRANCISCO, CA</string>
+    <string name="see_more">SEE MORE</string>
+    <string name="message">MESSAGE</string>
+    <string name="todo_todo">TODO</string>
+    <string name="eight_picture" />
+    <string name="ninth_picture">Ninth Picture</string>
+    <string name="seventh_picture">Seventh Picture</string>
+    <string name="sixth_picture">Sixth Picture</string>
+    <string name="fifth_todo">Fifth Picture</string>
+    <string name="fourth_picture">Fourth Picture</string>
+    <string name="third_picture">Third Picture</string>
+    <string name="first_picture">First Picture</string>
+    <string name="todo">TODO_1</string>
+    <string name="see_more_1" tools:ignore="DuplicateDefinition">SEE MORE</string>
+</resources>
